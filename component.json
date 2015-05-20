@@ -1,7 +1,7 @@
 {
   "name": "factorial-io-components-logo",
   "repo": "factorial-io/components-logo",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "styles": ["logo.css"],
   "scripts": [],
   "templates": ["logo.tpl.haml"],
