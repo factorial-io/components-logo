@@ -1,0 +1,6 @@
+:php
+  $logo_style = 'width: ' . $ratio . '; font-size: ' . $height;
+  $logo_p_style = 'background-image: url("' . $src . '")';
+.Logo(style=$logo_style)
+  %p(style=$logo_p_style)
+    = $title

@@ -1,0 +1,20 @@
+{
+  "name": "factorial-io-components-logo",
+  "repo": "factorial-io/components-logo",
+  "version": "0.0.0",
+  "styles": ["logo.css"],
+  "scripts": [],
+  "templates": ["logo.tpl.haml"],
+  "dependencies": {},
+  "license": "MIT",
+  "backend": {
+    "template": "logo.tpl.haml",
+    "arguments": {
+      "src": "http://www.fillmurray.com/200/200/",
+      "width": "1em",
+      "heiht": "32px",
+      "title": "",
+      "href": "/"
+    }
+  }
+}
