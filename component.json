@@ -10,7 +10,7 @@
   "backend": {
     "template": "logo.tpl.haml",
     "arguments": {
-      "src": "http://www.fillmurray.com/200/200/",
+      "src": "http://www.fillmurray.com/200/200",
       "ratio": "1em",
       "height": "1em",
       "title": ""
