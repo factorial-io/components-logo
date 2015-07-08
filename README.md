@@ -13,8 +13,11 @@ $your_array = array(
   'title' => 'Your Logo Title'
 );
 ```
+
+### Arguments
+
 * `src`: the image-url.
-* `width`: the ratio of the logo in `em`
+* `ratio`: the ratio of the logo in `em`
 * `height`: the height of the logo in `px` or `em`
 * `title`: the text in the invisable span for screenreader
 

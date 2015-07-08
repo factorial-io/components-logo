@@ -11,7 +11,7 @@
     "template": "logo.tpl.haml",
     "arguments": {
       "src": "http://www.fillmurray.com/200/200/",
-      "width": "1em",
+      "ratio": "1em",
       "height": "1em",
       "title": ""
     }
