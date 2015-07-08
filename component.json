@@ -12,9 +12,8 @@
     "arguments": {
       "src": "http://www.fillmurray.com/200/200/",
       "width": "1em",
-      "heiht": "32px",
-      "title": "",
-      "href": "/"
+      "height": "1em",
+      "title": ""
     }
   }
 }
